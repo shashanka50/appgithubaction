@@ -1,5 +1,5 @@
 # from src import operations
-from src.math_operations import add,sub,mul
+from src.math_operations import add,sub,mul,div
 
 def test_add():
     assert add(2,3) == 5
